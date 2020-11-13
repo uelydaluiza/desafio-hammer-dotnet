@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BarbecueChallengeDotNet.Migrations
 {
     [DbContext(typeof(ParticipantContext))]
-    [Migration("20201112195623_BancoInicial")]
+    [Migration("20201113011144_BancoInicial")]
     partial class BancoInicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -40,7 +40,7 @@ namespace BarbecueChallengeDotNet.Migrations
                         new
                         {
                             Id = 1,
-                            Nome = "Teste 1",
+                            Nome = "Ana Flávia",
                             SeCancelado = false,
                             SeConvidado = true,
                             SeEmpregado = false,
@@ -49,56 +49,20 @@ namespace BarbecueChallengeDotNet.Migrations
                         new
                         {
                             Id = 2,
-                            Nome = "Teste 2",
-                            SeCancelado = true,
-                            SeConvidado = false,
-                            SeEmpregado = true,
+                            Nome = "Ayrton Souza",
+                            SeCancelado = false,
+                            SeConvidado = true,
+                            SeEmpregado = false,
                             SeVaiBeber = false
                         },
                         new
                         {
                             Id = 3,
-                            Nome = "Teste 3",
-                            SeCancelado = true,
-                            SeConvidado = true,
-                            SeEmpregado = false,
-                            SeVaiBeber = false
-                        },
-                        new
-                        {
-                            Id = 4,
-                            Nome = "Teste 4",
-                            SeCancelado = true,
-                            SeConvidado = true,
-                            SeEmpregado = false,
-                            SeVaiBeber = true
-                        },
-                        new
-                        {
-                            Id = 5,
-                            Nome = "Teste 5",
+                            Nome = "Maria Eduarda",
                             SeCancelado = false,
                             SeConvidado = false,
                             SeEmpregado = true,
                             SeVaiBeber = true
-                        },
-                        new
-                        {
-                            Id = 6,
-                            Nome = "Teste 6",
-                            SeCancelado = true,
-                            SeConvidado = false,
-                            SeEmpregado = true,
-                            SeVaiBeber = true
-                        },
-                        new
-                        {
-                            Id = 7,
-                            Nome = "Teste 7",
-                            SeCancelado = true,
-                            SeConvidado = false,
-                            SeEmpregado = true,
-                            SeVaiBeber = false
                         });
                 });
 #pragma warning restore 612, 618

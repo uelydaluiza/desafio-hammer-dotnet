@@ -26,37 +26,17 @@ namespace BarbecueChallengeDotNet.Migrations
             migrationBuilder.InsertData(
                 table: "Participant",
                 columns: new[] { "Id", "Nome", "SeCancelado", "SeConvidado", "SeEmpregado", "SeVaiBeber" },
-                values: new object[] { 1, "Teste 1", false, true, false, true });
+                values: new object[] { 1, "Ana Flávia", false, true, false, true });
 
             migrationBuilder.InsertData(
                 table: "Participant",
                 columns: new[] { "Id", "Nome", "SeCancelado", "SeConvidado", "SeEmpregado", "SeVaiBeber" },
-                values: new object[] { 2, "Teste 2", true, false, true, false });
+                values: new object[] { 2, "Ayrton Souza", false, true, false, false });
 
             migrationBuilder.InsertData(
                 table: "Participant",
                 columns: new[] { "Id", "Nome", "SeCancelado", "SeConvidado", "SeEmpregado", "SeVaiBeber" },
-                values: new object[] { 3, "Teste 3", true, true, false, false });
-
-            migrationBuilder.InsertData(
-                table: "Participant",
-                columns: new[] { "Id", "Nome", "SeCancelado", "SeConvidado", "SeEmpregado", "SeVaiBeber" },
-                values: new object[] { 4, "Teste 4", true, true, false, true });
-
-            migrationBuilder.InsertData(
-                table: "Participant",
-                columns: new[] { "Id", "Nome", "SeCancelado", "SeConvidado", "SeEmpregado", "SeVaiBeber" },
-                values: new object[] { 5, "Teste 5", false, false, true, true });
-
-            migrationBuilder.InsertData(
-                table: "Participant",
-                columns: new[] { "Id", "Nome", "SeCancelado", "SeConvidado", "SeEmpregado", "SeVaiBeber" },
-                values: new object[] { 6, "Teste 6", true, false, true, true });
-
-            migrationBuilder.InsertData(
-                table: "Participant",
-                columns: new[] { "Id", "Nome", "SeCancelado", "SeConvidado", "SeEmpregado", "SeVaiBeber" },
-                values: new object[] { 7, "Teste 7", true, false, true, false });
+                values: new object[] { 3, "Maria Eduarda", false, false, true, true });
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)

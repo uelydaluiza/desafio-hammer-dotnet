@@ -21,15 +21,6 @@ namespace BarbecueChallengeDotNet.Controllers
             _banco = banco;
         }
 
-
-        [HttpGet]
-        [Route("ObterCandidatos")]
-
-        public async Task<IEnumerable<Participante>> Obter()
-        {
-            return await _banco.Participant.ToListAsync();
-        }
-
         //Insere participantes, seja convidados ou empregados
         [HttpPost]
         [Route("CriarParticipante")]
@@ -42,7 +33,7 @@ namespace BarbecueChallengeDotNet.Controllers
 
         //Retorna todos os candidatos 
         [HttpGet]
-        [Route("GetConvidados")]
+        [Route("RetornaConvidados")]
 
         public async Task<IEnumerable<Participante>> GetConvidados()
         {
@@ -51,7 +42,7 @@ namespace BarbecueChallengeDotNet.Controllers
 
         //Retorna todos os empregados da empresa que irão participar do churrasco
         [HttpGet]
-        [Route("GetEmpregados")]
+        [Route("RetornaEmpregados")]
 
         public async Task<IEnumerable<Participante>> GetEmpregados()
         {
@@ -60,7 +51,7 @@ namespace BarbecueChallengeDotNet.Controllers
 
         //Remove participante do churrasco
         [HttpPut("{id}")]
-        [Route("DeleteConvidado/{id}")]
+        [Route("RemoveParticipante/{id}")]
         public async Task<Participante> DeleteParticipante(int id)
         {
             var remover = await _banco.Participant.FindAsync(id);
@@ -76,7 +67,7 @@ namespace BarbecueChallengeDotNet.Controllers
 
         //Retorna todas as pessoas que cancelaram suas participações
         [HttpGet]
-        [Route("GetCancelados")]
+        [Route("RetornaCancelados")]
 
         public async Task<IEnumerable<Participante>> GetCancelados()
         {
@@ -85,7 +76,7 @@ namespace BarbecueChallengeDotNet.Controllers
 
         //Retorna o total arrecadado
         [HttpGet]
-        [Route("GetTotalArrecadado")]
+        [Route("RetornaTotalArrecadado")]
 
         public ActionResult GetTotalArrecadado()
         {
@@ -102,7 +93,7 @@ namespace BarbecueChallengeDotNet.Controllers
 
         //Retorna o total gasto em bebidas. Considerando que o valor da bebida para qualquer pessoa é 10 reais
         [HttpGet]
-        [Route("GetTotalBebida")]
+        [Route("RetornaTotalBebida")]
 
         public ActionResult GetTotalBebida()
         {
@@ -115,7 +106,7 @@ namespace BarbecueChallengeDotNet.Controllers
 
         //Retorna o total gasto em comida. Considerando que o valor da comida para qualquer pessoa é 10 reais
         [HttpGet]
-        [Route("GetTotalComida")]
+        [Route("RetornaTotalComida")]
 
         public ActionResult GetTotalComida()
         {
