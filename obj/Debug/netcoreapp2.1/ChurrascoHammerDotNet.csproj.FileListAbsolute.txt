@@ -1,0 +1,17 @@
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\ChurrascoHammerDotNet.deps.json
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\ChurrascoHammerDotNet.runtimeconfig.json
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\ChurrascoHammerDotNet.runtimeconfig.dev.json
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\ChurrascoHammerDotNet.dll
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\ChurrascoHammerDotNet.pdb
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\ChurrascoHammerDotNet.csprojAssemblyReference.cache
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\ChurrascoHammerDotNet.AssemblyInfoInputs.cache
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\ChurrascoHammerDotNet.AssemblyInfo.cs
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\ChurrascoHammerDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\ChurrascoHammerDotNet.RazorAssemblyInfo.cache
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\ChurrascoHammerDotNet.RazorAssemblyInfo.cs
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\ChurrascoHammerDotNet.RazorTargetAssemblyInfo.cache
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\ChurrascoHammerDotNet.dll
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\ChurrascoHammerDotNet.pdb
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\ChurrascoHammerDotNet.genruntimeconfig.cache

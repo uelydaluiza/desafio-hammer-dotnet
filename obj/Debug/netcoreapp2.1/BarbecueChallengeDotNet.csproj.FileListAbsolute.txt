@@ -1,0 +1,17 @@
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\BarbecueChallengeDotNet.deps.json
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\BarbecueChallengeDotNet.runtimeconfig.json
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\BarbecueChallengeDotNet.runtimeconfig.dev.json
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\BarbecueChallengeDotNet.dll
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\bin\Debug\netcoreapp2.1\BarbecueChallengeDotNet.pdb
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\BarbecueChallengeDotNet.AssemblyInfoInputs.cache
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\BarbecueChallengeDotNet.AssemblyInfo.cs
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\BarbecueChallengeDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\BarbecueChallengeDotNet.RazorAssemblyInfo.cache
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\BarbecueChallengeDotNet.RazorAssemblyInfo.cs
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\BarbecueChallengeDotNet.RazorTargetAssemblyInfo.cache
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\BarbecueChallengeDotNet.dll
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\BarbecueChallengeDotNet.pdb
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\BarbecueChallengeDotNet.genruntimeconfig.cache
+C:\Users\Uelyda-Luiza\source\repos\BarbecueChallengeDotNet\obj\Debug\netcoreapp2.1\BarbecueChallengeDotNet.csprojAssemblyReference.cache
